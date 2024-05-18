@@ -1,0 +1,14 @@
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\bin\Debug\net8.0\aula07.exe
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\bin\Debug\net8.0\aula07.deps.json
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\bin\Debug\net8.0\aula07.runtimeconfig.json
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\bin\Debug\net8.0\aula07.dll
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\bin\Debug\net8.0\aula07.pdb
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.AssemblyInfoInputs.cache
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.AssemblyInfo.cs
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.dll
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\refint\aula07.dll
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.pdb
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\aula07.genruntimeconfig.cache
+C:\Users\Dorcas Chagas\Desktop\Aulas_faculdade\POO\aula07\obj\Debug\net8.0\ref\aula07.dll
